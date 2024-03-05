@@ -1,0 +1,8 @@
+29667ba38cdd6081dcc4a6d6caadf4b2 *DESCRIPTION
+791a6ce65b570a32a74716dc8652e5d9 *NAMESPACE
+df6cc46bc7fae1a55b713f3d5065b35a *R/arcgis-package.R
+99fe5a25dd4e3b3154633c1c555ac38e *R/attach.R
+8e8bfeeed003b85019d05e9223b532b4 *R/zzz.R
+a5cbda7e009de208069232544af6cedf *README.md
+35716c7243cecbe47d8bab9a78bc18fc *man/arcgis-package.Rd
+99d0be966e91a27e27ef1081403e60fd *man/arcgis_packages.Rd
